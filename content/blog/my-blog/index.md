@@ -1,6 +1,6 @@
 ---
 title: My new life
-summary:something about Reinforcement Learning, RL
+summary: something about Reinforcement Learning, RL
 date: 2025-07-08
 ---
 Hello world !
