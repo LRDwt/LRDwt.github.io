@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 罗濡东
+title: Luo Rudong
 
 # Name pronunciation (optional)
-name_pronunciation: Rudong Luo
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: 
